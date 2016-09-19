@@ -1,5 +1,5 @@
 <?php
-$target_dir = "/compre";
+$target_dir = "/compre/";
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
 $uploadOk = 1;
 
